@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>labelLengkapiInfoAkun</name>
+   <tag></tag>
+   <elementGuidId>f9f2a474-1c9b-41e8-b14e-36fd98dbbb23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='container']</value>
+      <webElementGuid>2b912dad-9183-4b80-9c91-3f0393c1d6fd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

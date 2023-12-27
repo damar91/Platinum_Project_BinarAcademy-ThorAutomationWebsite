@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtfieldAddress</name>
+   <tag></tag>
+   <elementGuidId>b8920eea-d94e-494e-8297-4868b6aecbfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id='user_address']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textarea[@id='user_address']</value>
+      <webElementGuid>5d84a685-ac0f-42dc-96c6-fe33ef2575c3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

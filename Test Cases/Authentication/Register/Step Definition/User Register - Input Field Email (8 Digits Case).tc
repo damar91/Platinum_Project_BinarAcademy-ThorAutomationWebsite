@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Register - Input Field Email (8 Digits Case)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6921ed64-95ef-4a41-b644-c18bd5e0e0dd</testCaseGuid>
+</TestCaseEntity>

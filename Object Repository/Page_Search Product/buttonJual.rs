@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonJual</name>
+   <tag></tag>
+   <elementGuidId>8388355b-568b-4b2a-967d-dc3084ae828e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[.='Jual']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[.='Jual']</value>
+      <webElementGuid>6bcbec6a-57d0-44d4-8c71-aa1565c57f2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

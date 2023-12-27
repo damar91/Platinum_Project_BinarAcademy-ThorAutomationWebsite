@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonKategoriKendaraan</name>
+   <tag></tag>
+   <elementGuidId>f545ed64-e2a1-4c7a-ad16-41a48bbafcae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>e7002faa-86bd-4cf4-a697-d74e16757224</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

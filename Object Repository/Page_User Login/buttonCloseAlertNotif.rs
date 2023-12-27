@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonCloseAlertNotif</name>
+   <tag></tag>
+   <elementGuidId>5af67b0f-21d5-4815-850c-4481f90cb3a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class='btn-close']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@class='btn-close']</value>
+      <webElementGuid>6b467472-4be4-4364-96b3-65115d2a23ad</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

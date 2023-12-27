@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtfield_SearchProduct</name>
+   <tag></tag>
+   <elementGuidId>a4cd39f6-bc44-48d6-ad94-38b39da622a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='q']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='q']</value>
+      <webElementGuid>2de7acbe-759b-4eb9-bf47-59d6ad637362</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

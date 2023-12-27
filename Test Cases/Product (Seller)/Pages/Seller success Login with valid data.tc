@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seller success Login with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf5490f3-0d23-4fe0-95b2-4c3eef024d40</testCaseGuid>
+</TestCaseEntity>

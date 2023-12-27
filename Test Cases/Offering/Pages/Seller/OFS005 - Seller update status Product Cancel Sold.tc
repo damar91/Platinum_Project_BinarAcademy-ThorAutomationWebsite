@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OFS005 - Seller update status Product Cancel Sold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9410470a-0db6-4359-91ca-d258b5e941a4</testCaseGuid>
+</TestCaseEntity>

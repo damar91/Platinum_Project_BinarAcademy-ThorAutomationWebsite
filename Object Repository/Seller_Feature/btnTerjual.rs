@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnTerjual</name>
+   <tag></tag>
+   <elementGuidId>2ba916b9-4406-4c35-b664-8fbc37ac7459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[.='Terjual']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[.='Terjual']</value>
+      <webElementGuid>21a4140c-4620-49d2-8bf0-f7d42ea6a4a9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

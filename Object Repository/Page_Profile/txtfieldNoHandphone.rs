@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtfieldNoHandphone</name>
+   <tag></tag>
+   <elementGuidId>d5d89658-0d2d-4894-af26-1a4e502f24e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='user_phone_number']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='user_phone_number']</value>
+      <webElementGuid>67068073-f9ea-44be-b37d-ac3805ff327a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

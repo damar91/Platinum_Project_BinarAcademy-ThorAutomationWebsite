@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonCariDisini</name>
+   <tag></tag>
+   <elementGuidId>a557c0ea-3f53-41d0-be8d-677fed5b2920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='q']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='q']</value>
+      <webElementGuid>dde8ba92-283c-4622-8014-170ba2229903</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

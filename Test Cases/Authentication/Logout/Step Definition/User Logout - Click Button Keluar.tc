@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Logout - Click Button Keluar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96a6bd6c-cfe2-43a5-8921-5d1c8d7592f8</testCaseGuid>
+</TestCaseEntity>

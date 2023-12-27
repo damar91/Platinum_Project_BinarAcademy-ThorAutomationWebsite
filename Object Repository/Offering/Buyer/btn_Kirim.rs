@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Kirim</name>
+   <tag></tag>
+   <elementGuidId>4d440beb-8265-47dd-a5df-49d5efdd818b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='commit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>fe7a18fe-4bdd-4489-a034-ef432472398a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

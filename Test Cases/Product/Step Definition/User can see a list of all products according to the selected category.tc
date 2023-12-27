@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can see a list of all products according to the selected category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8e1825c-399d-4f52-9853-9d0dd5869360</testCaseGuid>
+</TestCaseEntity>

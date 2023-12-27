@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldPassLogin</name>
+   <tag></tag>
+   <elementGuidId>57d07b33-5201-493f-a29c-391ae9d7c02e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='user_password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='user_password']</value>
+      <webElementGuid>453410e4-0987-4abd-bdd3-f04422809eff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

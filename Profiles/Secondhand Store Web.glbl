@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Secondhand Store Web</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://secondhand.binaracademy.org/'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://drive.google.com/drive/folders/1xtGafkZzNyRgFuUEbnslklt5ov1NcJpb?usp=sharing'</initValue>
+      <name>SharedFilesDirectory</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

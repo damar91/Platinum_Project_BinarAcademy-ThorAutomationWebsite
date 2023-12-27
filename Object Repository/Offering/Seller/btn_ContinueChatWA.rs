@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_ContinueChatWA</name>
+   <tag></tag>
+   <elementGuidId>e69f19aa-d5f3-443e-a7e1-e1a6adcad796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='action-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='action-button']</value>
+      <webElementGuid>6be638c6-dcb5-44a1-8d0e-7a789141410d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,26 @@
+.classpath
+
+.settings
+
+.project
+
+.cache
+
+.gradle
+
+.log
+
+settings
+
+console properties
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build

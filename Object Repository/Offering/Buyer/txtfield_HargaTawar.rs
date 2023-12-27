@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtfield_HargaTawar</name>
+   <tag></tag>
+   <elementGuidId>c1b104a7-0226-4d71-8ca1-9b0b62bbf519</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='offer_price']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='offer_price']</value>
+      <webElementGuid>ac529862-7009-4291-a273-edc8a8f1db50</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

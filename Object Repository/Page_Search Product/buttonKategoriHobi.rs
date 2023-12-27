@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonKategoriHobi</name>
+   <tag></tag>
+   <elementGuidId>b15ff2da-d83c-474d-b95c-45ec1246ff93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>a:nth-of-type(2)</value>
+      <webElementGuid>c2057409-1ce2-4e23-828c-1a7aa086bf51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

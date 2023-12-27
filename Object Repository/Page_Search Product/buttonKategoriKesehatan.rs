@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonKategoriKesehatan</name>
+   <tag></tag>
+   <elementGuidId>7f9226a8-2c9a-4c32-95d2-4bb5bf0d25ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(.,'Kesehatan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(.,'Kesehatan')]</value>
+      <webElementGuid>98df52bf-ea10-4020-8e4a-74144e2999f5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

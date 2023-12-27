@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Register - Email Taken Alert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3052cb4-5504-4e20-8d85-e462868f50aa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonDaftar</name>
+   <tag></tag>
+   <elementGuidId>2d85bd0d-2842-4ef2-abd7-a1a59e7786cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='commit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>e55817c6-faac-4ab6-8577-872be58c5cf1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

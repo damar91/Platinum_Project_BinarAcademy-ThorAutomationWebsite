@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PDS003 - Seller Failed Create Product Without Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa21e422-a1ac-4a41-a04d-d75e7f7b734e</testCaseGuid>
+</TestCaseEntity>

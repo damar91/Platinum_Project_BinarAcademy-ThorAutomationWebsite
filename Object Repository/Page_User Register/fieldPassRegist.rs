@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldPassRegist</name>
+   <tag></tag>
+   <elementGuidId>27d59689-97b2-4790-97b4-3797f0b26ece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='user_password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='user_password']</value>
+      <webElementGuid>288f2d43-a707-4ccb-af36-deb2c7bb35fe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

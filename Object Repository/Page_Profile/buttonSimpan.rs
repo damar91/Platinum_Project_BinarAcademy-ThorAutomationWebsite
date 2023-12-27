@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonSimpan</name>
+   <tag></tag>
+   <elementGuidId>2ca3b42f-fef8-4af4-ab34-aa8673c73ffb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='commit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>bff8271f-794b-4700-8ca4-6397d60d48a1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

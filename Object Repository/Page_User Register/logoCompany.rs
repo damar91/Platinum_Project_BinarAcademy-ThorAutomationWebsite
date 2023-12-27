@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logoCompany</name>
+   <tag></tag>
+   <elementGuidId>70126439-3a03-45d5-b64f-722258986cbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='container']/a[@href='/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='container']/a[@href='/']</value>
+      <webElementGuid>01c90e1e-5bd5-46f4-b946-a1571d781414</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
