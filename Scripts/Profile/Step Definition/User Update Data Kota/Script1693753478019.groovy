@@ -21,5 +21,5 @@ WebUI.verifyElementPresent(findTestObject('Page_Profile/labelLengkapiInfoAkun'),
 
 WebUI.click(findTestObject('Page_Profile/txtfieldCity'))
 
-WebUI.selectAllOption(findTestObject('Page_Profile/txtfieldCity'))
+WebUI.selectOptionByIndex(findTestObject('Page_Profile/txtfieldCity'), '3')
 
